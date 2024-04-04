@@ -3,7 +3,7 @@ Potion of Invisibilty [1.0] 16:9
 
 So i was making a sort of default DT skin thing but then i imported another skin.ini file in the skin and now everything is invisible
 
-
+[Download here!](https://github.com/JeremeyFit/invisskin1.0osu/raw/main/Potion%20of%20Invisibilty%20%5B1.0%5D.osk)
 
 
 
