@@ -1,5 +1,12 @@
 # invisskin1.0osu
-invisible osu skin
+Potion of Invisibilty [1.0] 16:9
+
+So i was making a sort of default DT skin thing but then i imported another skin.ini file in the skin and now everything is invisible
+
+
+
+
+
 Screenshots:
 ![screenshot014](https://github.com/JeremeyFit/invisskin1.0osu/assets/138258345/e924c709-ecf6-4c25-8e81-b29a2566bbf9)
 
